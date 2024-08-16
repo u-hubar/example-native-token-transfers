@@ -9,7 +9,8 @@ if ! command -v bun > /dev/null; then
   exit 1
 fi
 
-REPO="https://github.com/wormhole-foundation/example-native-token-transfers.git"
+REPO="https://github.com/u-hubar/example-native-token-transfers.git"
+
 
 function main {
   branch=""
